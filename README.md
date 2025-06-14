@@ -1,7 +1,5 @@
 # 👨‍💻 Leonardo Miralles
 
-![Banner](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
-
 🔍 Analista de BI | Digital Marketing | RPA | VBA | Power BI | SQL  
 📍 São Paulo, Brasil  
 📊 Transformo dados em decisões e processos em automações.
@@ -21,7 +19,7 @@
 
 Sou apaixonado por dados, tecnologia e automação.
 
-Tenho mais de 5 anos de experiência como Analista de BI, atuando com:
+Tenho mais de 6 anos de experiência como Analista de BI, atuando com:
 
 • 📈 Criação de dashboards interativos (Power BI)  
 • 🧩 Unificação e tratamento de dados via SQL e VBA  
@@ -44,55 +42,12 @@ Atualmente cursando Ciência de Dados, com formação técnica em Informática e
 
 ---
 
-## 💼 Experiências Recentes
+## 💼 Portifólio de projetos
 
-### 🧩 Digi (2024 - hoje)
-• BI focado em Finanças e CRM  
-• Dashboards em Power BI e Metabase  
-• Automação com VBA  
-• Projeções e controle de pontos  
-
-### 🍸 Campari Group (2024)
-• BI para On Trade  
-• Vendas e dashboards em Power BI  
-• Relatórios no Zoho CRM  
-
-### 🎧 Club Yacht SP (2019 - 2024)
-• Análises e marketing para casas noturnas  
-• Segmentação de clientes e dashboards  
-
-### 📱 Samsung (2024)
-• Relatórios de RMA  
-• Automação em Excel + SAP  
-
-...e muito mais! Veja o [meu LinkedIn](https://www.linkedin.com/in/leo-miralles) para o histórico completo.
-
----
-
-## 🏅 Premiações e Certificações
-
-• 🏆 Finalista - FEBRACE  
-• 🏅 Finalista - FETEPS  
-• 💡 Participação - EXCUTE  
-• 📜 Certificações: Análise de Dados, UX, Finanças, Redes e mais
-
----
-
-## 🌐 Idiomas
-
-• 🇺🇸 Inglês: Full Professional  
-• 🇧🇷 Português: Nativo
-
----
-
-## 🎓 Formação
-
-• Ciência de Dados – UNINTER (2024 - 2026)  
-• Técnico em Administração – ETEC (2019 - 2020)  
-• Técnico em Informática – ETEC (2011 - 2012)  
-• Hardware – Microcamp (2008 - 2009)
+<p align="center">
+  <a href="https://sellarim.github.io/meu-portfolio-v2/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Meu Portfólio-Visite agora-blue?style=for-the-badge" alt="Portfólio do Leonardo">
+  </a>
+</p>
 
 
----
-
-![Thanks](https://media.giphy.com/media/xT5LMBz2f1XbRz1Zsk/giphy.gif)
